@@ -1,5 +1,5 @@
 # Scrapers
-Conatins scraping codes
+Contains scraping codes
 
 
 ##Instagram Scraper code
